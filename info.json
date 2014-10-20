@@ -1,0 +1,10 @@
+{
+  "name": "CartmenPower",
+  "version": "0.1.0",
+  "title": "Cartmen's Power Mod",
+  "author": "Cartmen180",
+  "contact": "cartmen180@gmail.com",
+  "homepage": "",
+  "description": "Adds higher tier power production.",
+  "dependencies": ["base >= 0.10.0","CartmenElectronics => 1.0.0","CartmenChemicals >= 1.0.0","CartmenIndustries >= 0.5.6"]
+}
